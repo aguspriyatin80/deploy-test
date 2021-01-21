@@ -1,4 +1,4 @@
-const { Penerima } = require("../../BE - satuAmal/models/penerima");
+const { Penerima } = require("../models/penerima");
 
 // exports.Create = async(req, res, next) => {
 //     try {
