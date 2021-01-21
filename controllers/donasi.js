@@ -1,4 +1,4 @@
-const { Donasi } = require("../../BE - satuAmal/models/donasi");
+const { Donasi } = require("../models/donasi");
 
 // exports.Create = async(req, res, next) => {
 //     try {
